@@ -59,6 +59,11 @@ A script to monitor server performance, including CPU, memory, and disk usage.
 ### 11. [Dockerized Service](https://github.com/janisadhi/Dockerized_Service)
 A simple example of deploying a dockerized service to streamline application delivery.
 
+### 12. [Dockerized Service](https://github.com/janisadhi/Dockerized_Service)
+ansible playbook to install docker in production server
+
+### 13. [Ansible_Playbook_Install_Docker](https://github.com/janisadhi/Ansible_Playbook_Install_Docker)
+Ansible playbook to configure a Linux server according to requirements
 ---
 
 ## How to Use
