@@ -65,22 +65,14 @@ ansible playbook to install docker in production server
 ### 13. [Configuration_Management](https://github.com/janisadhi/Configuration_Management)
 Ansible playbook to configure a Linux server according to requirements
 
+### 13. [Prometheus_and_Grafana_Setup](https://github.com/janisadhi/Prometheus_and_Grafana_Setup)
+Ansible playbook to configure a Linux server according to requirements
+
 ---
 
 ## How to Use
 1. Navigate to the project repository by clicking the links above.
 2. Follow the instructions in each project’s `README.md` for setup and usage.
-
----
-
-## Tools & Technologies 🛠️
-- **Containers:** Docker
-- **Automation:** GitHub Actions, Terraform, rsync
-- **Web Servers:** Nginx
-- **Monitoring:** Systemd, custom scripts
-- **Cloud:** AWS EC2
-
-Feel free to explore and contribute! 😊
 
 ---
 
